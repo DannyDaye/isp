@@ -14,6 +14,9 @@ I'm using data collected from Baseball-Reference / Stathead, based on filters fo
 status and minimum 162 games played for non inductees (subject to change).
 
 [hof_hitters.xlsx](https://github.com/user-attachments/files/16150620/hof_hitters.xlsx)
+
 [non-hof_hitters.xlsx](https://github.com/user-attachments/files/16150615/non-hof_hitters.xlsx)
+
 [hof_pitchers.xlsx](https://github.com/user-attachments/files/16150613/hof_pitchers.xlsx)
+
 [non-hof_pitchers.xlsx](https://github.com/user-attachments/files/16150618/non-hof_pitchers.xlsx)
