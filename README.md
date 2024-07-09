@@ -13,10 +13,7 @@ or not inducted due to off-field, non-statistical data.
 I'm using data collected from Baseball-Reference / Stathead, based on filters for HOF 
 status and minimum 162 games played for non inductees (subject to change).
 
-[HOF Pitchers.xlsx](https://github.com/user-attachments/files/15817622/HOF.Pitchers.xlsx)
-
-[HOF Hitters.xlsx](https://github.com/user-attachments/files/15817621/HOF.Hitters.xlsx)
-
-[Non-HOF Pitchers Combined.xlsx](https://github.com/user-attachments/files/15817620/Non-HOF.Pitchers.Combined.xlsx)
-
-[Non-HOF Batters Combined.xlsx](https://github.com/user-attachments/files/15817619/Non-HOF.Batters.Combined.xlsx)
+[hof_hitters.xlsx](https://github.com/user-attachments/files/16150620/hof_hitters.xlsx)
+[non-hof_hitters.xlsx](https://github.com/user-attachments/files/16150615/non-hof_hitters.xlsx)
+[hof_pitchers.xlsx](https://github.com/user-attachments/files/16150613/hof_pitchers.xlsx)
+[non-hof_pitchers.xlsx](https://github.com/user-attachments/files/16150618/non-hof_pitchers.xlsx)
