@@ -11,12 +11,4 @@ inducted into the HOF when eligible. The data will not take into account those i
 or not inducted due to off-field, non-statistical data.
 
 I'm using data collected from Baseball-Reference / Stathead, based on filters for HOF 
-status and minimum 162 games played for non inductees (subject to change).
-
-[hof_hitters.xlsx](https://github.com/user-attachments/files/16150620/hof_hitters.xlsx)
-
-[non-hof_hitters.xlsx](https://github.com/user-attachments/files/16150615/non-hof_hitters.xlsx)
-
-[hof_pitchers.xlsx](https://github.com/user-attachments/files/16150613/hof_pitchers.xlsx)
-
-[non-hof_pitchers.xlsx](https://github.com/user-attachments/files/16150618/non-hof_pitchers.xlsx)
+status and minimum 162 games played for non inductees.
