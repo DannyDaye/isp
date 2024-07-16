@@ -1,0 +1,39 @@
+Hitters predicted to be HoF, but are actually Non-HoF: ['George Van Haltren']
+Hitters predicted to be Non-HoF, but are actually HoF: ['Buck Ewing' 'Burleigh Grimes' 'Sandy Koufax' 'Lee Smith' 'Juan Marichal'
+ 'Mickey Welch' 'Andy Cooper' 'Roy Campanella' 'Ryne Sandberg'
+ 'Ozzie Smith' 'Roger Bresnahan' 'Roy Halladay' 'Earle Combs'
+ 'Jimmy Collins' 'Jesse Haines' 'Joe Mauer' 'Leon Day' 'Hack Wilson'
+ 'Kirby Puckett' 'Phil Niekro' 'Eppa Rixey' 'Ray Schalk' 'Johnny Bench'
+ 'Grover Alexander' 'Walter Johnson' 'George Kell' 'Pud Galvin'
+ 'Dennis Eckersley']
+Hitters predicted to be above the HoF threshold:
+Miguel Cabrera
+Robinson Canó
+Freddie Freeman
+Albert Pujols
+Will Smith
+Mike Trout
+Joey Votto
+Pitchers predicted to be HoF, but are actually Non-HoF: ['Smoky Joe Wood' 'Tommy John']
+Pitchers predicted to be Non-HoF, but are actually HoF: ['George Kelly' 'Hilton Smith' 'Oscar Charleston' 'Jack Chesbro'
+ 'Turkey Stearnes' 'Jack Morris' 'John Ward' 'Joe McGinnity' 'Ray Brown'
+ 'Bob Lemon' 'George Sisler' 'Waite Hoyt']
+Pitchers predicted to be above the HoF threshold:
+Zack Greinke
+Kenley Jansen
+Clayton Kershaw
+Sergio Romo
+Max Scherzer
+Justin Verlander
+Hitters predicted to be HoF, but are actually Non-HoF: ['George Van Haltren']
+Hitters predicted to be Non-HoF, but are actually HoF: ['Buck Ewing' 'Burleigh Grimes' 'Sandy Koufax' 'Lee Smith' 'Juan Marichal'
+ 'Mickey Welch' 'Andy Cooper' 'Roy Campanella' 'Ryne Sandberg'
+ 'Ozzie Smith' 'Roger Bresnahan' 'Roy Halladay' 'Earle Combs'
+ 'Jimmy Collins' 'Jesse Haines' 'Joe Mauer' 'Leon Day' 'Hack Wilson'
+ 'Kirby Puckett' 'Phil Niekro' 'Eppa Rixey' 'Ray Schalk' 'Johnny Bench'
+ 'Grover Alexander' 'Walter Johnson' 'George Kell' 'Pud Galvin'
+ 'Dennis Eckersley']
+Pitchers predicted to be HoF, but are actually Non-HoF: ['Smoky Joe Wood' 'Tommy John']
+Pitchers predicted to be Non-HoF, but are actually HoF: ['George Kelly' 'Hilton Smith' 'Oscar Charleston' 'Jack Chesbro'
+ 'Turkey Stearnes' 'Jack Morris' 'John Ward' 'Joe McGinnity' 'Ray Brown'
+ 'Bob Lemon' 'George Sisler' 'Waite Hoyt']
